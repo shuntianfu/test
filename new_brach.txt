@@ -1,2 +1,15 @@
 
 create a new git branch
+new
+new
+def zhang():
+    li
+    li
+    li
+
+
+About atom.
+
+c + o + f change in function same words.
+ctrl + shift + t open setting
+ctrl + shift + p open command short cuts.
